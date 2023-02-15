@@ -1,0 +1,9 @@
+body{
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: rgb(37, 92, 74);
+}
+.App{
+  padding: 12px;
+}
